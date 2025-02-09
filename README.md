@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @samarthbillore121
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning UI development, Angular2, Angular js , React js, JavaScript
+- 🌱 I know, angular, kdb+, cpp and javascript  
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samarthbilloray121@gmail.com 
+
+- 📫 How to reach me billoresamarth@gmail.com
 
 <!---
 samarthbillore121/samarthbillore121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
